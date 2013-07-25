@@ -15,6 +15,8 @@ This will add carbon, whisper, and graphite-web.  If you prefer, each is configu
 
 * `boxen`
 * `homebrew`
+* `nginx`
+* `apache` ([mattheath/puppet-apache](https://github.com/mattheath/puppet-apache))
 * `python` (depends on `xquartz`)
 * `cairo` (depends on `xz`, `pixman`, `libpng`, `pkgconfig`)
 
